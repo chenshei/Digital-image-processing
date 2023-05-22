@@ -17,6 +17,4 @@ How To Use: through command line:
 (only one argument which is the name of the picture, e.g.: raod.jpeg)
 > python deform_image.py road.jpeg 
 
-Need any help with this project?
-Please contact us:
-Ronen Miller - 034441394 - <ronenmi@post.bgu.ac.il> or Chen Shein - 206086506 - <chenshei@post.bgu.ac.il> - we are maintaining this project.
+Ronen Miller & Chen Shein 
