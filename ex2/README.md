@@ -10,8 +10,6 @@ How To Use: through command line: (only one argument which is the name of the he
 
 > python3 main.py example4.png
 
-Need any help with this project? Please contact us: Ronen Miller ronenmi@post.bgu.ac.il or Chen Shein chenshei@post.bgu.ac.il - we are maintaining this project.
-
 Submitted by:
-Ronen Miller 034441394
-Chen Shein 206086506
+Ronen Miller 
+Chen Shein 
